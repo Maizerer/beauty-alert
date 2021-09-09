@@ -116,10 +116,10 @@ body {
     .alert.alert-danger .alert-description {
       color: #dc2626; }
   .alert.alert-success {
-    background-color: #8AFFA5;
+    background-color: #B0EDCB;
     border-bottom: 2px solid #33EA5E; }
     .alert.alert-success:hover {
-      background-color: #43f76d; }
+      background-color: #48ED92; }
     .alert.alert-success .alert-icon {
       border: 2px solid #1A752F;
       background-color: #cdf7d7; }
