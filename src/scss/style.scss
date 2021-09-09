@@ -117,6 +117,26 @@ body{
             color: rgb(220, 38, 38);
         }
     }
+    &.alert-success{
+        background-color: #8AFFA5;
+        border-bottom: 2px solid #33EA5E;
+        &:hover{
+            background-color: #43f76d;
+        }
+        .alert-icon{
+            border: 2px solid #1A752F;
+            background-color: #cdf7d7;
+            span{
+                color: #1A752F
+            }
+        }
+        .alert-title{
+            color: #1A752F;
+        }
+        .alert-description{
+            color: #229D3F;
+        }
+    }
 }
 
 

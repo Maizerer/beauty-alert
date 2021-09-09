@@ -115,3 +115,17 @@ body {
       color: #991b1b; }
     .alert.alert-danger .alert-description {
       color: #dc2626; }
+  .alert.alert-success {
+    background-color: #8AFFA5;
+    border-bottom: 2px solid #33EA5E; }
+    .alert.alert-success:hover {
+      background-color: #43f76d; }
+    .alert.alert-success .alert-icon {
+      border: 2px solid #1A752F;
+      background-color: #cdf7d7; }
+      .alert.alert-success .alert-icon span {
+        color: #1A752F; }
+    .alert.alert-success .alert-title {
+      color: #1A752F; }
+    .alert.alert-success .alert-description {
+      color: #229D3F; }
